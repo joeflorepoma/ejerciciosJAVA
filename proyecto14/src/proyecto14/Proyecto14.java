@@ -15,6 +15,10 @@ public class Proyecto14 {
 
     /**
      * @param args the command line arguments
+     * 15 se ingresa un importe si supera los 100 pesos se le suma un 23%, si es 
+     * menor a 100 pesos se le descuenta el 50%
+     * 16 se ingresa el importe de un pasaje de avion y el mes de viaje,
+     * si es enero se le descuenta un 10% por temporada baja
      * se pide ingresar una clave, si es "utn750", se mostrara el mensaje
      * bienvenido, de lo contrario el mensaje "clave erronea".
      */
